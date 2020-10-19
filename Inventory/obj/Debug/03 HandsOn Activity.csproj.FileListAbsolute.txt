@@ -1,0 +1,10 @@
+C:\Users\inter\source\repos\Inventory\Inventory\obj\Debug\03 HandsOn Activity.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Inventory\Inventory\obj\Debug\Inventory.frmAddProduct.resources
+C:\Users\inter\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\inter\source\repos\Inventory\Inventory\obj\Debug\03 HandsOn Activity.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Inventory\Inventory\obj\Debug\03 HandsOn Activity.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\inter\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\inter\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\inter\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\inter\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
